@@ -1,0 +1,70 @@
+.wcdr {
+  width: 80%;
+  background: rgba(164, 88, 8, 0.2);
+  padding: 10px;
+  color: rgba(155, 91, 8, 0.8);
+  text-align: center;
+  box-shadow: 0px 0px 5px #aaa;
+  margin: auto;
+}
+.ecdr {
+  width: 80%;
+background: rgba(208, 10, 10, 0.2);
+padding: 10px;
+color: rgba(117, 5, 5, 0.8);
+text-align: center;
+box-shadow: 0 0 5px #aaa;
+margin: auto;
+margin-bottom: 19PX;
+}
+.wcdr a {
+  display: block;
+  width: fit-content;
+  margin: auto;
+  padding: 5px;
+  background: #d0b8a1;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.wcdr a:hover {
+  cursor: pointer;
+}
+.icdr {
+  width: 80%;
+  background: #bad8de;
+  padding: 10px;
+  color: #364f54;
+  text-align: center;
+  box-shadow: 0px 0px 5px #aaa;
+  margin: auto;
+}
+.resultCustomRoll {
+  margin: auto;
+  width: 50%;
+  background: #ddd;
+  padding: 10px;
+  text-align: center;
+  border-radius: 15px;
+  border: thin solid;
+}
+.resultCustomRoll .mainInfo {
+  font-weight: bold;
+  font-size: 15px;
+  font-family: 'Georgia';
+}
+
+#rollForm {
+  text-align: center;
+  background: #fff;
+  box-shadow: 0px 0px 5px #bbb;
+  border-radius: 27px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.esdr, .esdr option {
+  background: #f48b8b;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
